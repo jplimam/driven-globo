@@ -129,7 +129,7 @@ body {
 .container3 {
     width: 624px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     border-top: 1px solid #EBEDEF;
 }
@@ -159,10 +159,14 @@ body {
     margin-bottom: 11px;
 }
 
-.noticia-coluna1 {
+.noticia-coluna1+.noticia-coluna1 {
     width: 240px;
-    padding-bottom: 50px;
+    padding-top: 50px;
 }
+
+/*.noticia-coluna1:nth-child(3) {
+    padding-bottom: 0px;
+}*/
 
 .noticia-noticia-coluna {
     color: #2F3134;
