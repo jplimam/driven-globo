@@ -17,6 +17,10 @@ body {
     height: 36px;
 }
 
+.logo:hover {
+    cursor: pointer;
+}
+
 .canais {
     display: flex;
     border: 1px solid #F5F6F7;
@@ -30,6 +34,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.links img:hover {
+    cursor: pointer;
 }
 
 .full-content {
@@ -68,6 +76,10 @@ body {
     margin-bottom: 25px;
 }
 
+.titulo-container1:hover {
+    cursor: pointer;
+}
+
 .noticia-container1 {
     font-size: 18px;
     color: #303134;
@@ -101,6 +113,10 @@ body {
     margin-bottom: 11px;
 }
 
+.imagem-manchete:hover {
+    cursor: pointer;
+}
+
 .assunto-noticia {
     font-size: 14px;
     font-weight: 500;
@@ -115,6 +131,10 @@ body {
     font-weight: 700;
     letter-spacing: -0.9px;
     margin-bottom: 4.5px;
+}
+
+.titulo-noticia:hover {
+    cursor: pointer;
 }
 
 .noticia {
@@ -157,6 +177,10 @@ body {
     width: 240px;
     height: 128px;
     margin-bottom: 11px;
+}
+
+.imagem-coluna:hover {
+    cursor: pointer;
 }
 
 .noticia-coluna1+.noticia-coluna1 {
