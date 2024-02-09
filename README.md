@@ -83,14 +83,6 @@ Basta copiar o link do projeto e clonar no repositório local, por fim, execute 
 
 ---
 
-## 👨‍💻 Contribuidores
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/jplimam"><img style="border-radius: 50%;" src="assets/images/IMG_9270.jpg" width="100px;" alt=""/><br /><sub><b>João Pedro Lima</b></sub></a><br />
-  </tr>
-</table>
-
 ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
@@ -103,10 +95,9 @@ Basta copiar o link do projeto e clonar no repositório local, por fim, execute 
 
 ## 🧙‍♂️ Autor
 
-<a href="https://www.figma.com/@caiux">
- <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQEDfulqSVXZqw/profile-displayphoto-shrink_200_200/0/1674667231041?e=1688601600&v=beta&t=C-f9fp3xJDwXm1u4c6eMwpWfVIyW0eCTDAKGIyNdRJA" width="100px;" alt=""/>
- <br />
- <sub><b>Caio Lopes</b></sub></a> <a href="https://www.figma.com/@caiux" title="Cubos Academy">✨</a>
+  <tr>
+    <td align="center"><a href="https://github.com/jplimam"><img style="border-radius: 50%;" src="assets/images/IMG_9270.jpg" width="100px;" alt=""/><br /><sub><b>João Pedro Lima</b></sub></a><br />
+  </tr>
  <br />
 
 ---
@@ -115,5 +106,5 @@ Basta copiar o link do projeto e clonar no repositório local, por fim, execute 
 
 <!-- Este projeto esta sobe a licença [MIT](./LICENSE). -->
 
-Feito com ❤️ por Caio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/caiovslopes/)
+Feito com ❤️ por João Pedro Lima Marcelo 👋 [Entre em contato!](https://www.linkedin.com/in/jplimam/)
 
