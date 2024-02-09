@@ -14,7 +14,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/jplimam/projeto-instagram?style=social">
   </a>
   
-   <a href="https://www.twitter.com/whoisjepire/">
+   <a href="https://www.twitter.com/whoisjepire/" target="_blank">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fjplimam%2Fprojeto-instagram">
   </a>
   
