@@ -46,11 +46,6 @@
 
 📄 Projeto Globo - é um modelo recriado do site globo.com no intuito de estudar linguagens de marcação HTML, CSS, e alguns recursos de responsividade.
 
-
-Projeto desenvolvido após assistir algumas aulas da **[Driven Education]** de [Desenvolvimento de Software].
-
-A Driven Educatin é uma escola com cursos de tecnologia para todos os perfis, do iniciante ao avançado.
-
 ---
 
 ## 🎨 Layout
@@ -78,6 +73,7 @@ O layout da aplicação está disponível no Figma:
 ## 🛣️ Como executar o projeto
 
 Basta copiar o link do projeto e clonar no repositório local, por fim, execute em seu navegador.
+`git clone git@github.com:jplimam/projeto-globo.git`
 
 ---
 
